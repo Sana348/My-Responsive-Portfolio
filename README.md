@@ -13,3 +13,5 @@ Visual studio code
 DevTools
 https://developer.chrome.com/devtools
 
+I have shared with gitfront 
+
